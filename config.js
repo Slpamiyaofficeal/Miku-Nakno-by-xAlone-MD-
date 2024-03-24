@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94779327828']
-global.OwnerNumber = ['94779327828']
-global.ownertag = ['94779327828']
+global.Owner = ['94704020146']
+global.OwnerNumber = ['94704020146']
+global.ownertag = ['94704020146']
 global.BotName = "Miku"
 global.packname = "Miku bot"
 global.author = "By: xAlone"
-global.OwnerName = "xAlone"
+global.OwnerName = "𝑆𝐿 𝛲𝛥𝛭𝛪𝑌𝛥"
 global.BotSourceCode = "https://github.com/xAloneBOT/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/D9LvrBdQQ31ESkg2EdOjYN"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
 global.location = "Galle ,Srilanka"
